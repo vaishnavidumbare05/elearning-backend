@@ -1,0 +1,6 @@
+/videos
+/node_modules
+/vendor
+/config
+/__pycache__
+/uploads
