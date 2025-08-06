@@ -1,7 +1,0 @@
-.git
-.gitignore
-node_modules
-vendor
-*.log
-__pycache__/
-uploads

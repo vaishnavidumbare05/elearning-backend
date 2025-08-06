@@ -1,6 +1,15 @@
-/videos
+videos/
 
-/vendor
-/config
+vendor/
+.env
 /__pycache__
-/uploads
+uploads/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs and temp files
+*.log
+*.cache
+*.tmp
